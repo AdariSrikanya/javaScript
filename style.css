@@ -1,0 +1,41 @@
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box; 
+}
+.AboutUsBanner{
+    width: 100vw;
+    position: relative;
+}
+.onBanner{
+    /* position: absolute;
+    top: 200px; */
+    padding: 2rem 0;
+}
+.AboutUssec{
+    display: flex;
+    padding: 2rem;
+}
+.AboutUssec p{
+    font-size: 24px;
+}
+.imgBan{
+    padding: 3rem;
+}
+.justify-text p{
+    text-align: justify;
+    font-size: 14px;
+}
+.AboutUsTitle{
+    padding: 2rem 0;
+}
+.WM{
+    display: flex;
+    margin: 0 6rem;
+}
+.WMcontent{
+    padding: 6rem 13rem;
+}
+/* .WMImg{
+    position: absolute;
+} */
